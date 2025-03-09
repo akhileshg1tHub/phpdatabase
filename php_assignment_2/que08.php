@@ -20,4 +20,4 @@ foreach ($array as $item) {
     echo $item . " ";
 }
 ?>
-// output is : Original array : 1 2 3 4 5
+// output is : Original array : 1 2 3 $ 4 5
