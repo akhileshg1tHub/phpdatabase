@@ -25,3 +25,4 @@ $sampleArray = [12, 4, 56, 7, 89, 1];
 rearrangeArray($sampleArray);
 print_r($sampleArray);
 ?>
+// output is :Array ( [0] => 1 [1] => 12 [2] => 4 [3] => 56 [4] => 7 [5] => 89 )
