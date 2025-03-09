@@ -29,4 +29,6 @@ foreach ($duplicateEmails as $email) {
 }
 ?>
 
-// output is : Duplicate Emails:
+// output is :Duplicate Emails:
+              test@example.com
+              user@domain.com
